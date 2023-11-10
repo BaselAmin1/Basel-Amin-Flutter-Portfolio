@@ -23,20 +23,3 @@ Sahem is an award-winning application developed during the Smart Government hack
   <img src="https://github.com/BaselAmin1/Basel-Amin-Flutter-Portfolio/blob/main/Sahem/Screenshot_1699607717.png" width="200" />
 </p>
 
-## Getting Started
-
-To run the project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/Sahem.git`
-2. Navigate to the project directory: `cd Sahem`
-3. Run the application: `flutter run`
-
-Feel free to explore the code and contribute to the project!
-
-## Author
-
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
